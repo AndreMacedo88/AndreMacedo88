@@ -2,7 +2,9 @@
 
 I'm a bioinformatics post-doc researcher in Ana Martin-Villalba's lab in Heidelberg, Germany.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreMacedo88&theme=vision-friendly-dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreMacedo88&theme=github_dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMacedo88&hide=javascript,html,ruby&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AndreMacedo88/AndreMacedo88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
