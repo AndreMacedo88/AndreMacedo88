@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 I'm a bioinformatics post-doc researcher in Ana Martin-Villalba's lab in Heidelberg, Germany.
+My scientific interests are building statistical and informatic solutions to tackle complex biological problems.
+
+- 🔭 I’m currently working on UTRomics
+- 📫 How to reach me: andre.lopes.macedo@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreMacedo88&theme=github_dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
