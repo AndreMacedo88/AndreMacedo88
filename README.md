@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a bioinformatics post-doc researcher in Ana Martin-Villalba's lab in Heidelberg, Germany.
+I'm a bioinformatics post-doctoral researcher in Ana Martin-Villalba's lab in Heidelberg, Germany.
 My scientific interests are building statistical and informatic solutions to tackle complex biological problems.
 
 - 🔭 I’m currently working on tools to deal with UTRomics and applying them to study Neuro Stem Cell Biology.
