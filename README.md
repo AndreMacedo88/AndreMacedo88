@@ -6,8 +6,6 @@ My scientific interests are building statistical and informatic solutions to tac
 - 🔭 I’m currently working on tools to deal with UTRomics and applying them to study Neuro Stem Cell Biology.
 - 📫 How to reach me: andre.lopes.macedo@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreMacedo88&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMacedo88&include_all_commits=true&count_private=true&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
