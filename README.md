@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hi%20there👋&animation=fadeIn&type=waving&color=gradient&height=120"/>
+</p>
 
 I'm a bioinformatics post-doctoral researcher in Ana Martin-Villalba's lab in Heidelberg, Germany.
 My scientific interests are building statistical and informatic solutions to tackle complex biological problems.
@@ -7,6 +9,7 @@ My scientific interests are building statistical and informatic solutions to tac
 - 📫 How to reach me: andre.lopes.macedo@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMacedo88&include_all_commits=true&count_private=true&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **AndreMacedo88/AndreMacedo88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
