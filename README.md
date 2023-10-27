@@ -14,7 +14,7 @@ My scientific interests are building statistical and informatic solutions to tac
   <a href="https://github.com/search?q=user%3AAndreMacedo88+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white"></a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMacedo88&include_all_commits=true&count_private=true&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMacedo88&include_all_commits=true&count_private=true&theme=github_dark&show_icons=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
