@@ -6,7 +6,9 @@ I'm a bioinformatics post-doctoral researcher in Ana Martin-Villalba's lab in He
 My scientific interests are building statistical and informatic solutions to tackle complex biological problems.
 
 - 🔭 I’m currently working on tools to deal with UTRomics and applying them to study Neuro Stem Cell Biology.
-- 📫 How to reach me: andre.lopes.macedo@gmail.com
+- 📫 How to reach me:
+  - andre.lopes.macedo@gmail.com
+  - <a href="https://twitter.com/AndreMacedo88"><img alt="X" src="https://img.shields.io/badge/-000000?style=flat&logo=X&logoColor=white"></a>
 
 <p>
   <a href="https://github.com/search?q=user%3AAndreMacedo88+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
