@@ -9,18 +9,12 @@ My scientific interests are building statistical and informatic solutions to tac
 - 📫 How to reach me:
   
 <p>
-  <a href="https://www.linkedin.com/in/andrelopesmacedo">
-  <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=flat&logo=linkedin&logoColor=white" alt=linkedin />
-  </a>
-
-  <a href="https://twitter.com/AndreMacedo88">
-  <img src="https://img.shields.io/badge/AndreMacedo88-%2300acee.svg?color=000000&style=flat&logo=X&logoColor=white" alt=X/>
-  </a>
-  
-  <a href="mailto:andre.lopes.macedo@gmail.com">
-  <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" alt=mail />
-  </a>
+  <a href="mailto:andre.lopes.macedo@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" alt=mail></a>
+  <a href="https://www.linkedin.com/in/andrelopesmacedo"><img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=flat&logo=linkedin&logoColor=white" alt=linkedin></a>
+  <a href="https://twitter.com/AndreMacedo88"><img src="https://img.shields.io/badge/AndreMacedo88-%2300acee.svg?color=000000&style=flat&logo=X&logoColor=white" alt=X></a>
 </p>
+
+---
 
 <p>
   <a href="https://github.com/search?q=user%3AAndreMacedo88+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
@@ -30,18 +24,4 @@ My scientific interests are building statistical and informatic solutions to tac
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMacedo88&include_all_commits=true&count_private=true&theme=github_dark&show_icons=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!--
-**AndreMacedo88/AndreMacedo88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
