@@ -7,8 +7,20 @@ My scientific interests are building statistical and informatic solutions to tac
 
 - 🔭 I’m currently working on tools to deal with UTRomics and applying them to study Neuro Stem Cell Biology.
 - 📫 How to reach me:
-  - andre.lopes.macedo@gmail.com
-  - <a href="https://twitter.com/AndreMacedo88"><img alt="X" src="https://img.shields.io/badge/-000000?style=flat&logo=X&logoColor=white"></a>
+  
+<p>
+  <a href="https://www.linkedin.com/in/andrelopesmacedo">
+  <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=flat&logo=linkedin&logoColor=white" alt=linkedin />
+  </a>
+
+  <a href="https://twitter.com/AndreMacedo88">
+  <img src="https://img.shields.io/badge/AndreMacedo88-%2300acee.svg?color=000000&style=flat&logo=X&logoColor=white" alt=X/>
+  </a>
+  
+  <a href="mailto:andre.lopes.macedo@gmail.com">
+  <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" alt=mail />
+  </a>
+</p>
 
 <p>
   <a href="https://github.com/search?q=user%3AAndreMacedo88+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
