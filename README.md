@@ -16,6 +16,7 @@ My scientific interests are building statistical and informatic solutions to tac
 
 ---
 
+My favorite means of expressing myself:
 <p>
   <a href="https://github.com/search?q=user%3AAndreMacedo88+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AAndreMacedo88+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
