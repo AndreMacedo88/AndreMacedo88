@@ -22,6 +22,7 @@ My favorite means of expressing myself:
   <a href="https://github.com/search?q=user%3AAndreMacedo88+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AAndreMacedo88+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white"></a>
 
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMacedo88&include_all_commits=true&count_private=true&theme=github_dark&show_icons=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
