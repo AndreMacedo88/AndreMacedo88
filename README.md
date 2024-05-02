@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hi%20there👋&animation=fadeIn&type=waving&color=gradient&height=120"/>
 </p>
 
-I'm a bioinformatics post-doctoral researcher in [Ana Martin-Villalba's lab](https://martin-villalba-lab.github.io/) in Heidelberg, Germany.
+I'm a computational biologist post-doctoral researcher in [Ana Martin-Villalba's lab](https://martin-villalba-lab.github.io/) in Heidelberg, Germany.
 My scientific interests are building statistical and automated solutions to tackle complex biological problems.
 
 - 🔭 Currently, I'm developing innovative tools and statistical approaches to tackle UTRomics and applying them to study Neuro Stem Cell Biology
