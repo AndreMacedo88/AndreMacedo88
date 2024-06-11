@@ -27,4 +27,6 @@ My favorite languages for developing tools, or for data exploration:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMacedo88&include_all_commits=true&count_private=true&theme=github_dark&show_icons=true&langs_count=5&hide=jupyter%20notebook,CSS,HTML)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AndreMacedo88&title=Commits,Experience,MultipleLang&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
