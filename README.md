@@ -31,5 +31,4 @@ My favorite languages for developing tools or for data exploration:
 -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AndreMacedo88&title=Commits,Experience,MultipleLang&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
